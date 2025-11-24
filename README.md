@@ -60,19 +60,6 @@ Dates as nested keys
 
 Individual sessions with duration, topic, and timestamp
 
-Example Session Data
-json
-{
-    "Mathematics": {
-        "2024-01-15": [
-            {
-                "duration": 120,
-                "topic": "Calculus",
-                "timestamp": "14:30:00"
-            }
-        ]
-    }
-}
 Benefits for Students
 Track study habits and time allocation
 
@@ -93,5 +80,5 @@ Handles date/time operations with datetime module
 
 Includes error handling for user input
 
-Perfect for AB Tech students and anyone looking to improve their study organization and time management skills!
+Perfect for BTech students and anyone looking to improve their study organization and time management skills!
 
